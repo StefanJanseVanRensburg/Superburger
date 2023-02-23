@@ -4,8 +4,8 @@ top bun
 
 
 
-Cheese
-Patty
+- Cheese 
+- Patty
 
 
 bottom bun
